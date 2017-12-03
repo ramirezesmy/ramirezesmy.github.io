@@ -1,0 +1,32 @@
+#thumbnail img {
+	width: 400px;
+}
+
+body {
+	font-family: Arial;
+	text-align: center;
+}
+
+#header {
+	font-size: 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 20px 20px 20px 20px;
+}
+
+#subheader {
+	font-style: italic;
+	padding: 0px 20px 20px 20px
+}
+
+#link {
+	width: 200px;
+	padding: 20px 20x;
+	margin: 30px auto 30px;
+	background-color: #4BFF33;
+	color: FF3384;
+}
+
+a{
+	text-decoration: none;
+}
